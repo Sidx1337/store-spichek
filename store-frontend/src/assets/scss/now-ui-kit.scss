@@ -1,0 +1,67 @@
+/*!
+
+ =========================================================
+ * Vue Now UI Kit - v1.1.0
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/now-ui-kit
+ * Copyright 2019 Creative Tim (http://www.creative-tim.com)
+
+ * Designed by www.invisionapp.com Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import 'src/assets/scss/now-ui-kit/variables';
+@import 'src/assets/scss/now-ui-kit/mixins';
+
+// Plugins CSS
+@import "src/assets/scss/now-ui-kit/plugins/plugin-bootstrap-switch";
+@import "src/assets/scss/now-ui-kit/plugins/plugin-nouislider";
+@import "src/assets/scss/now-ui-kit/plugins/plugin-datepicker";
+
+// Core CSS
+@import "src/assets/scss/now-ui-kit/buttons";
+@import "src/assets/scss/now-ui-kit/inputs";
+@import "src/assets/scss/now-ui-kit/checkboxes-radio";
+@import "src/assets/scss/now-ui-kit/progress";
+@import "src/assets/scss/now-ui-kit/badges";
+@import "src/assets/scss/now-ui-kit/pagination";
+@import "src/assets/scss/now-ui-kit/typography";
+@import "src/assets/scss/now-ui-kit/misc";
+@import "src/assets/scss/now-ui-kit/pills";
+
+// components
+@import "src/assets/scss/now-ui-kit/nucleo-outline";
+
+@import "src/assets/scss/now-ui-kit/tabs";
+@import "src/assets/scss/now-ui-kit/navbar";
+@import "src/assets/scss/now-ui-kit/dropdown";
+@import "src/assets/scss/now-ui-kit/alerts";
+@import "src/assets/scss/now-ui-kit/images";
+@import "src/assets/scss/now-ui-kit/popups";
+@import "src/assets/scss/now-ui-kit/modals";
+@import "src/assets/scss/now-ui-kit/carousel";
+@import "src/assets/scss/now-ui-kit/footers";
+
+// Cards
+@import "src/assets/scss/now-ui-kit/cards";
+@import "src/assets/scss/now-ui-kit/cards/card-plain";
+@import "src/assets/scss/now-ui-kit/cards/card-signup";
+
+// example pages and sections
+@import "src/assets/scss/now-ui-kit/example-pages";
+@import "src/assets/scss/now-ui-kit/sections";
+
+
+@import "src/assets/scss/now-ui-kit/responsive";
+
+// Element UI plugins
+@import "src/assets/scss/now-ui-kit/element-ui-plugins/carousel";
+@import "src/assets/scss/now-ui-kit/element-ui-plugins/date_picker";
+@import "src/assets/scss/now-ui-kit/element-ui-plugins/input";
+@import "src/assets/scss/now-ui-kit/element-ui-plugins/tooltip";
+@import "src/assets/scss/now-ui-kit/element-ui-plugins/popover";

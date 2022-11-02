@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon ./server.js localhost 3070"
+  },
+  "author": "Igor Spichek",
+  "license": "",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.4",
+    "mysql": "^2.18.1",
+    "random-id": "^1.0.4"
+  },
+  "devDependencies": {
+    "del": "^5.1.0",
+    "nodemon": "^2.0.4"
+  }
+}

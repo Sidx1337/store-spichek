@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vuejs-nodejs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/prod-build/vuejs-nodejs.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
