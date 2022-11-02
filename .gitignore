@@ -1,2 +1,6 @@
 node_modules
 dist
+.idea
+./api/node_modules
+./store-frontend/node_modules
+./store-frontend/dist
